@@ -7,3 +7,4 @@ Publicly available admissions-related and general information from FAST will be 
 Bot Development:
 A chatbot interface will be created to interact with students.
 The Microsoft Phi2 model will be fine-tuned on the collected admissions information to answer text-based questions regarding admission requirements and processes.
+r
